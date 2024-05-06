@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000940
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.6/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
@@ -9,9 +10,9 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: '[Temp Title: Data for: Hippocampal Theta Phase Precession Supports Memory
-  Formation and Retrieval of Naturalistic Experience in Humans] (2024). (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000940/draft'
+citation: 'Data for: Theta Phase Precession Supports Memory Formation and Retrieval
+  of Naturalistic Experience in Humans (2024). (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000940/draft'
 contributor:
 - awardNumber: 5 U01 NS 117839-04
   name: National Institutes of Health (NIH)
@@ -21,14 +22,31 @@ contributor:
 dateCreated: '2024-03-15T21:17:56.183415+00:00'
 description: '[Temporary description for the cognitive boundaries - phase precession
   dataset'
+ethicsApproval: []
 id: DANDI:000940/draft
 identifier: DANDI:000940
+keywords:
+- cognitive neuroscience
+- data standardization
+- NWB
+- open source
+- single-neurons
+- neurophysiology
+- phase precession
+- human
+- memory
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000940/versions/draft/assets/
-name: '[Temp Title: Data for: Hippocampal Theta Phase Precession Supports Memory Formation
-  and Retrieval of Naturalistic Experience in Humans]'
+name: 'Data for: Theta Phase Precession Supports Memory Formation and Retrieval of
+  Naturalistic Experience in Humans'
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.6
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000940/draft
 version: draft
+wasGeneratedBy: []
